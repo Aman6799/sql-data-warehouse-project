@@ -34,11 +34,6 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
-
-
-
-
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
